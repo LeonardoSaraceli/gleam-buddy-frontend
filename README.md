@@ -1,1 +1,1 @@
-# gleam-buddy
+# gleam-buddy-frontend
